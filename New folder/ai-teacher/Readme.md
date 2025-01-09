@@ -121,7 +121,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com) for real-time AI capabilities
 - [Vercel](https://vercel.com) for hosting and deployment platform
 
+#support 
 
+- Develop by suyash patil
+- learn by suyash patil
 
 ---
 
