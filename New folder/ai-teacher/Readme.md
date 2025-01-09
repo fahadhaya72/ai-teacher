@@ -121,14 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [OpenAI](https://openai.com) for real-time AI capabilities
 - [Vercel](https://vercel.com) for hosting and deployment platform
 
-## Support
 
-For support, please open an issue in the GitHub repository or contact [patilsuyash892@gmail.com](mailto:patilsuyash892@gmail.com).
-Instagram : https://www.instagram.com/_suyashpatil_/
-Ph No : +91 7483543757
 
 ---
 
-### Deployment URL : https://ai-teacher-rho.vercel.app/
-
-Built with ❤️ by Suyash Ganesh Patil
+### Deployment URL : 
