@@ -125,4 +125,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### Deployment URL : 
+### Deployment URL : https://ai-teacher-rho.vercel.app/
